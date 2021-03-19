@@ -1,2 +1,2 @@
-# bullets-and-walls
-hi this was created in visual cod studio
+# p5.play-boilerplate
+Boiler plate for p5.play
